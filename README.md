@@ -12,8 +12,6 @@ I'm Pablo López, an Artificial Intelligence and Big Data student from Pamplona.
 - 📧 Email: pablolopezsimon@gmail.com
 - 🔗 LinkedIn: www.linkedin.com/in/pablo-lópez-profile
 
-## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pablo-LS&show_icons=true&theme=radical)
 
 Feel free to explore my repositories and reach out if you have any questions or if you'd like to collaborate on a project! 🚀
